@@ -1,7 +1,6 @@
 import TopBanner from "@/components/sacred/TopBanner";
 import Marquee from "@/components/sacred/Marquee";
 import Hero from "@/components/sacred/Hero";
-import VideoBlock from "@/components/sacred/VideoBlock";
 import AsSeenIn from "@/components/sacred/AsSeenIn";
 import Comments from "@/components/sacred/Comments";
 import FinalCTA from "@/components/sacred/FinalCTA";
@@ -13,7 +12,6 @@ const Index = () => {
       <TopBanner />
       <Marquee />
       <Hero />
-      <VideoBlock />
       <AsSeenIn />
       <Comments />
       <FinalCTA />

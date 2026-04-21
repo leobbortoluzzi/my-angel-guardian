@@ -13,8 +13,9 @@ const FinalCTA = () => {
           The only thing missing is your decision.
         </p>
 
-        <button
-          className="pulse-cta mt-8 inline-flex w-full max-w-xl flex-col items-center rounded-md px-8 py-4 text-foreground transition active:scale-[0.99]"
+        <a
+          href="#vsl-video"
+          className="pulse-cta mt-8 inline-flex w-full max-w-xl flex-col items-center rounded-md px-8 py-4 text-foreground transition active:scale-[0.99] no-underline"
           style={{ background: "var(--gradient-cta)" }}
         >
           <span className="font-display text-base sm:text-lg font-bold uppercase tracking-wider">
@@ -23,7 +24,7 @@ const FinalCTA = () => {
           <span className="mt-1 font-serif text-xs italic opacity-90">
             Archangel Michael is standing by — tap to receive your blessing
           </span>
-        </button>
+        </a>
       </div>
     </section>
   );
