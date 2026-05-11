@@ -4,7 +4,7 @@ import { Volume2 } from "lucide-react";
 
 const PITCH_TIME_SECONDS = 3507; // Valor provisório, aguardando informação
 const VIDEO_SRC = "https://vz-af4cf92c-ffc.b-cdn.net/d4fc2baf-1726-4bc6-b20c-959373b46c1f/playlist.m3u8";
-const CHECKOUT_URL = "https://pay.kiwify.com/HvMxVHR";
+const CHECKOUT_URL = "https://pay.hotmart.com/E98587367A?off=3dpgi5gg";
 
 const Hero = () => {
   const [showCTA, setShowCTA] = useState(false);
