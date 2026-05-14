@@ -120,10 +120,10 @@ const Hero = () => {
                   <Volume2 className="h-8 w-8" />
                 </div>
                 <p className="font-display text-lg font-bold uppercase tracking-widest text-white drop-shadow-md">
-                  Seu vídeo já começou
+                  Your video has already started
                 </p>
                 <p className="font-serif italic text-white/90">
-                  Clique para ouvir com som
+                  Click to listen with sound
                 </p>
               </div>
             </div>
